@@ -66,6 +66,8 @@ camerasRef.on('value', function(data) {
 
         if(data.exists()){
             var content = '';
+            $('#items').empty();  // clear the contents of id=items
+
              data.forEach(function(child) {
              //snapshot.forEach(function(data){
                 var val = child.val();
