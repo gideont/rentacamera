@@ -1,0 +1,14 @@
+{
+  "cameras" : {
+    "-M7AyHfif-bxpG-8f8Fk" : {
+      "brand": "Canon",
+      "model": "50mm f1.8 II lens",
+      "rental_price": "$80",
+      "item_price": "$80",
+      "quantity": "1",
+      "purchased_date": "Feb 2, 2018",
+      "no_of_rented": "20",
+      "image_url": "https://static.wixstatic.com/media/6018d2_8cb3d5ce5aea4a22aa550e9c1832faf6~mv2.jpg/v1/fill/w_1000,h_1000,al_c,q_85/6018d2_8cb3d5ce5aea4a22aa550e9c1832faf6~mv2.webp"
+    }
+  }
+}
